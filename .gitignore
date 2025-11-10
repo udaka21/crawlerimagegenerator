@@ -157,7 +157,6 @@ Desktop.ini
 # Custom project files (optional)
 # ------------------------------
 # Generated images or logs
-*.png
 *.jpg
 *.jpeg
 *.gif
